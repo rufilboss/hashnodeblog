@@ -3,6 +3,7 @@ title: "A Guide for Technical Writers"
 datePublished: Sun Jan 01 2023 14:11:02 GMT+0000 (Coordinated Universal Time)
 cuid: clfphbro200020amncbhp8lpg
 slug: a-guide-for-technical-writers
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xG8IQMqMITM/upload/af6bde4666ec9780dbefb69dfa7b0fc1.jpeg
 tags: technology, documentation, guide, technical-writing-1
 
 ---
