@@ -3,6 +3,7 @@ title: "A Comprehensive Guide to DevOps"
 datePublished: Wed Mar 29 2023 06:41:23 GMT+0000 (Coordinated Universal Time)
 cuid: clftbjg0l000009l9gyss9rbo
 slug: a-comprehensive-guide-to-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680623327622/54015cf3-48d2-4581-8dda-fb9198a73647.png
 tags: devops, newbieintech
 
 ---
