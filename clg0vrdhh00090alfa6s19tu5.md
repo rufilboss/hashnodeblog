@@ -3,6 +3,8 @@ title: "Optimizing Your Infrastructure for High Availability and Scalability"
 datePublished: Mon Apr 03 2023 13:41:48 GMT+0000 (Coordinated Universal Time)
 cuid: clg0vrdhh00090alfa6s19tu5
 slug: optimizing-your-infrastructure-for-high-availability-and-scalability
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680620693203/423eca23-2214-4398-8e07-bde2bc777351.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680620731178/9e63f124-32da-4dab-8128-b0a19d181278.png
 tags: security, devops, system-architecture, infrastructure, infrastructure-as-code
 
 ---
