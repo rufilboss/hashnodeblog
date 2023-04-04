@@ -3,6 +3,8 @@ title: "Mastering Monitoring and Alerting with Prometheus and Grafana"
 datePublished: Fri Mar 31 2023 23:17:00 GMT+0000 (Coordinated Universal Time)
 cuid: clfx5zivn000209mkhxt2hl8v
 slug: mastering-monitoring-and-alerting-with-prometheus-and-grafana
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680622521047/0a1cbf9f-1642-40f2-ab2f-bc44450059f3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680622537682/604ea68a-c957-41f1-ab3f-c94648fd4e86.png
 tags: monitoring, devops, prometheus, grafana, alerting
 
 ---
