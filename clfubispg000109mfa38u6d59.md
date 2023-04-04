@@ -3,6 +3,7 @@ title: "A Guide On Switching Careers To Tech"
 datePublished: Wed Mar 29 2023 23:28:39 GMT+0000 (Coordinated Universal Time)
 cuid: clfubispg000109mfa38u6d59
 slug: a-guide-on-switching-careers-to-tech
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680622675310/8cb1de56-ee00-4e03-a336-bfe0f974ec17.png
 tags: newbie, technology, communities
 
 ---
