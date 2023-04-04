@@ -3,6 +3,7 @@ title: "Introducing LogIQ"
 datePublished: Thu Mar 30 2023 23:06:06 GMT+0000 (Coordinated Universal Time)
 cuid: clfvq5nzb000109md8jm9bi4w
 slug: introducing-logiq
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680623771256/fd1c4955-5062-42ca-bc44-649193be56e8.png
 tags: tools, tooling, monitoring, devops, logging
 
 ---
