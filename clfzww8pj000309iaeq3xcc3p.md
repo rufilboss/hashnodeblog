@@ -3,6 +3,8 @@ title: "Infrastructure as Code"
 datePublished: Sun Apr 02 2023 21:25:49 GMT+0000 (Coordinated Universal Time)
 cuid: clfzww8pj000309iaeq3xcc3p
 slug: infrastructure-as-code
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680620512688/e5d6a149-d084-4fd5-9e92-c9bd85061f44.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680620539669/3d69f064-f7d6-4439-9be8-374e1f6e0716.png
 tags: devops, terraform, iac, aws-cloudformation, infrastructure-as-code-iac-service-market
 
 ---
