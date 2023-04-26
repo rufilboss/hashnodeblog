@@ -71,6 +71,39 @@ sudo systemctl status jenkins
 
 Now that Jenkins is installed and running, you can access the Jenkins web interface by navigating to [`http://localhost:8080`](http://localhost:8080) in your web browser.
 
+You should see something like:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682508665675/7d5358e6-1962-4892-b645-6264bae22b63.png align="center")
+
+You need to unlock it with the administrator password, so go back to your terminal and run this command:
+
+```bash
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
+
+Once you have unlocked Jenkins, the Customize Jenkins page will appear, providing you with the opportunity to install a variety of useful plugins during your initial setup.
+
+**You will be presented with two options:**
+
+1. **Install suggested plugins**: this will install a set of plugins that are recommended based on the most common use cases.
+    
+2. **Select plugins to install**: this allows you to choose which set of plugins to install initially. By default, the suggested plugins will be selected when you first access the plugin selection page.
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682508848748/35519ae1-ffc8-4a1f-98b2-e746c05f5e7d.png align="center")
+
+After customizing Jenkins with plugins, the next step is for Jenkins to prompt you to create your initial administrator user.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682509050015/00815946-f9a7-4e9b-9316-b2a55aa95dfd.png align="center")
+
+Next to the instance configuration;
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682509400510/fee4ac78-08db-405f-a617-be92698ce470.png align="center")
+
+Click Save and Finish.
+
+Boom🚀🚀🚀 we make it to the Jenkins dashboard.
+
 # Conclusion
 
-Jenkins is a powerful tool that can help teams automate their software development processes. By following these simple steps, you can install Jenkins on your Ubuntu machine and start using it to automate your software development processes.
+**Jenkins** is a powerful tool that can help teams automate their software development processes. By following these simple steps, you can install Jenkins on your Ubuntu machine and start using it to automate your software development processes.
