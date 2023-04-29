@@ -1,8 +1,8 @@
 ---
-title: "75 -Implementing Asynchronous Event-Based Collaboration"
+title: "Day 75 -Implementing Asynchronous Event-Based Collaboration"
 datePublished: Sat Apr 29 2023 21:23:11 GMT+0000 (Coordinated Universal Time)
 cuid: clh2housl000e09ld16cncgd0
-slug: 75-implementing-asynchronous-event-based-collaboration
+slug: day-75-implementing-asynchronous-event-based-collaboration
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682803264211/3dde988d-3085-4737-af0d-bbd5d46ad97d.png
 tags: microservices, architecture, 100daysofcode, event-driven-architecture, 100daysofdevops
 
