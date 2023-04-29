@@ -1,8 +1,8 @@
 ---
-title: "Why You Should Hire a DevOps Engineer?"
+title: "Why Should You Hire a DevOps Engineer?"
 datePublished: Sat Apr 29 2023 17:04:52 GMT+0000 (Coordinated Universal Time)
 cuid: clh28gnzd000m09mj61kb359c
-slug: why-you-should-hire-a-devops-engineer
+slug: why-should-you-hire-a-devops-engineer
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682787633974/f6e10741-c237-4d7f-935c-cd711858d45d.png
 tags: developer, devops, devops-engineer, 2articles1week, hire-remote-developers
 
