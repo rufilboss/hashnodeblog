@@ -1,6 +1,6 @@
 ---
 title: "Day 82 -Customer Relationship Management (CRM) in Microservices Architecture"
-datePublished: Wed May 10 2023 20:55:18 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat May 06 2023 21:01:27 GMT+0000 (Coordinated Universal Time)
 cuid: clhi6jdsn000608mnf7j5f480
 slug: day-82-customer-relationship-management-crm-in-microservices-architecture
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683751882100/faab00c5-57cc-424c-b468-7c5b14eaeb1b.png
