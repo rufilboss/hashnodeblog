@@ -3,7 +3,7 @@ title: "Day 85 - Splitting the Monolith in a Microservice Architecture"
 datePublished: Tue May 09 2023 22:01:08 GMT+0000 (Coordinated Universal Time)
 cuid: clhjoc3wo000409l07dxm0tob
 slug: day-85-splitting-the-monolith-in-a-microservice-architecture
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683842209678/8b032eb8-727e-4531-8dac-265ef66a149c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683842585826/4ade7c2e-7aa9-48b5-89ed-1f1d4d7be862.png
 tags: microservices, system-architecture, system-design, 100daysofcode, monolithic-architecture
 
 ---
