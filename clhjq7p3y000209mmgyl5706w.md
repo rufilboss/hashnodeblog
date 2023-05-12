@@ -20,7 +20,7 @@ If you're working with a monolithic system and are considering migrating to micr
 
 Let's break everything down in steps;
 
-# Step 1: Understand the Monolithic Architecture
+## Step 1: Understand the Monolithic Architecture
 
 The first step is to understand what monolithic architecture is and how it works. In a monolithic system, all components of the application are tightly coupled, and the entire system is deployed as a single unit. This makes it difficult to make changes to the system as a whole and requires developers to redeploy the entire application each time a change is made. This approach can lead to slower development times, increased complexity, and difficulty in scaling.
 
