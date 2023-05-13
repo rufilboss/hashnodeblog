@@ -14,7 +14,9 @@ However, this process can be complex and require careful planning and implementa
 
 # Understanding an API Gateway
 
-An API gateway acts as a single entry point for all requests to the microservices, handling tasks such as authentication, rate limiting, and load balancing. It acts as a layer of abstraction between the client and the microservices, allowing for greater flexibility and ease of use. In the context of splitting a monolith into microservices, the API gateway is essential for several reasons:
+An API gateway acts as a single entry point for all requests to the microservices, handling tasks such as authentication, rate limiting, and load balancing. It acts as a layer of abstraction between the client and the microservices, allowing for greater flexibility and ease of use.
+
+When splitting a monolith into microservices, the API gateway is essential for several reasons:
 
 ## Decoupling the Monolith
 
