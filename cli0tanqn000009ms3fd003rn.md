@@ -1,8 +1,8 @@
 ---
-title: "Microservices and DevOps"
+title: "Day 99 -Microservices and DevOps"
 datePublished: Tue May 23 2023 21:52:14 GMT+0000 (Coordinated Universal Time)
 cuid: cli0tanqn000009ms3fd003rn
-slug: microservices-and-devops
+slug: day-99-microservices-and-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684878425701/795aaa7e-d107-41bb-8093-dd40f2383e22.png
 tags: microservices, software-architecture, automation, devops, 100daysofcode
 
