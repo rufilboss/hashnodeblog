@@ -45,7 +45,7 @@ By combining these services, developers can create robust, decoupled systems.
     EventBridge rules determine how events are routed. A rule can filter events based on specific criteria, enabling precise targeting of Lambda functions. Example:
     
     ```bash
-    jsonCopy code{
+    {
       "source": ["aws.ec2"],
       "detail-type": ["EC2 Instance State-change Notification"],
       "detail": {
