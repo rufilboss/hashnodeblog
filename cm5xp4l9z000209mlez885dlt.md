@@ -18,7 +18,7 @@ Serverless computing has revolutionized how developers build and deploy applicat
     
 * **Cost Efficiency:** Pay-per-use pricing model.
     
-* **Reduced Operational Overhead:** No server management required.
+* **Reduced Operational Overhead:** No server management is required.
     
 
 AWS Lambda and Amazon EventBridge are core components of serverless architectures, enabling developers to focus on business logic while AWS handles the heavy lifting.
